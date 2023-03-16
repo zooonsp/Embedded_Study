@@ -8,10 +8,12 @@ https://ftp.kaist.ac.kr/ubuntu-cd/20.04.5/
 => ubuntu-20.04.5-deskt-amd64.iso
 
 #### 가상환경을 위한 VirtualBox 설치
+
 https://www.virtualbox.org/wiki/Downloads
 => VirtualBox 7.0.6 platform packages => Windows hosts
 
 #### VirtualBox 설치 후
+
 1. 새로만들기 -> 이름에 ubuntu(ver)
 2. 설치할 때 설정
     - 기본 메모리: 4096MB
@@ -25,6 +27,7 @@ https://www.virtualbox.org/wiki/Downloads
 
 ---
 ### <이론>
+
 #### 운영체제 종류
 - Windows: PC 시장 지배
 - 리눅스: 서버, 임베디드 OS 시장 지배
